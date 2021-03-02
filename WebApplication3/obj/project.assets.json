@@ -6881,11 +6881,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rahul-PC\\source\\repos\\BlogsManagement - Copy\\WebApplication3\\WebApplication3.csproj",
+      "projectUniqueName": "C:\\Users\\Rahul-PC\\source\\repos\\New folder\\BlogManagement\\WebApplication3\\WebApplication3.csproj",
       "projectName": "WebApplication3",
-      "projectPath": "C:\\Users\\Rahul-PC\\source\\repos\\BlogsManagement - Copy\\WebApplication3\\WebApplication3.csproj",
+      "projectPath": "C:\\Users\\Rahul-PC\\source\\repos\\New folder\\BlogManagement\\WebApplication3\\WebApplication3.csproj",
       "packagesPath": "C:\\Users\\Rahul-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rahul-PC\\source\\repos\\BlogsManagement - Copy\\WebApplication3\\obj\\",
+      "outputPath": "C:\\Users\\Rahul-PC\\source\\repos\\New folder\\BlogManagement\\WebApplication3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rahul-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

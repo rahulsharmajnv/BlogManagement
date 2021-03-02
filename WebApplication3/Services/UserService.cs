@@ -20,7 +20,7 @@ namespace WebApplication3.Services
                 foreach (DataRow row in dt.Rows)
                 {
                    user.Email= row.Field<string>("Email");
-                   user.UserName=row.Field<string>("Password");
+                   user.UserName=row.Field<string>("Username");
 
                 }
             }

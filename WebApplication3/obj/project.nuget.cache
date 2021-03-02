@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9kBwVKk30pV5hgu6tHm6jzV+ObhQEGbni0rWYB5eb2hV4q8jI3S7HrZ48ez2iP+2VX5WCImCtzAs87MWF3cRA==",
+  "dgSpecHash": "1Iu/qrgvDbO0V3rWbXu6HXSE9lhPY9lc2hCvW51LWPa69jdvqG95cxm+8xHc0msDsLNyJx6n3fL5nTWReE75Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rahul-PC\\source\\repos\\BlogsManagement - Copy\\WebApplication3\\WebApplication3.csproj",
+  "projectFilePath": "C:\\Users\\Rahul-PC\\source\\repos\\New folder\\BlogManagement\\WebApplication3\\WebApplication3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahul-PC\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\Rahul-PC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.12\\microsoft.aspnetcore.authentication.jwtbearer.3.1.12.nupkg.sha512",
